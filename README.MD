@@ -54,7 +54,7 @@ python3 processSwagger.py
 
 After this neatly created list has been generated now its time to plug it into ffuf. 
 
-###### A word on wordlists
+#### A word on wordlists
 
 In ffufSwagger.sh at the top of the script is where you will configure your wordlists. WORDLIST1 is path parameters and WORDLIST2 is body data.
 
