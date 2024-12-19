@@ -2,8 +2,8 @@
 
 # Configurations
 URLS_FILE="ffufFUZZ.txt"  # File containing the list of URLs with methods
-WORDLIST1="/home/rugrat/SecLists/Fuzzing/XML-FUZZ.txt"  # First wordlist
-WORDLIST2="/home/rugrat/SecLists/Fuzzing/LDAP.Fuzzing.txt"  # Second wordlist
+WORDLIST1="/home/[USER]/SecLists/Fuzzing/XML-FUZZ.txt"  # First wordlist
+WORDLIST2="/home/[USER]/SecLists/Fuzzing/LDAP.Fuzzing.txt"  # Second wordlist
 OUTPUT_DIR="./ffuf_results"  # Directory to store results
 
 
